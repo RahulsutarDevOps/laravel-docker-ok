@@ -50,7 +50,7 @@ services:
       MYSQL_ROOT_PASSWORD: root
       MYSQL_DATABASE: laravel_docker
     ports:
-    - 3306:3306      
+    - 3307:3306      
 
   db:
     build:
