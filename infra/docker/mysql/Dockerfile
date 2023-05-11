@@ -1,4 +1,4 @@
-FROM mysql/mysql-server:8.0
+FROM mysql:5.7.38
 
 ENV TZ=UTC
 
